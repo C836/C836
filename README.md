@@ -1,6 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<img alt="Gabriel Lopes" src="./cover.gif" width="100%">
+<img alt="Gabriel Lopes" src="./cover.gif" width="5000px">
 
 </p>
 <div align="center">
