@@ -1,4 +1,4 @@
-<img alt="Gabriel Lopes" src="./cover.gif" width="5000px">
+<img alt="Gabriel Lopes" src="./cover.gif" width="100%">
 
 ---
 
